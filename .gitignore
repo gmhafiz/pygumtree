@@ -1,0 +1,6 @@
+# Byte-compiled / optimzed / DLL files
+__pycache__/
+*.py[cod]
+
+# Intellij files
+.idea/*
